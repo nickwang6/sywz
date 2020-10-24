@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+# 实用网站推荐
 
-You can use the [editor on GitHub](https://github.com/nickwang6/sywz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### **学习类**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.编程资源网（丰富的计算机类学习资源分享）
 
-```markdown
-Syntax highlighted code block
+​                      [破日编程](http://www.pr61.com/)
 
-# Header 1
-## Header 2
-### Header 3
+2.大学资源网
 
-- Bulleted
-- List
+​                      [大学资源网](http://www.dxzy163.com/list/index73.html)
 
-1. Numbered
-2. List
+3.我要自学网
 
-**Bold** and _Italic_ and `Code` text
+​                       [我要自学网](https://www.51zxw.net/)
 
-[Link](url) and ![Image](src)
-```
+4.办公软件学习
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+​                       [Word联盟](http://www.wordlm.com/word/)
 
-### Jekyll Themes
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickwang6/sywz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 工具类
+
+
+
+1.格式转换（文件有限制）
+
+​                      [I love PDF](https://www.ilovepdf.com/zh-cn)
+
+2.图片压缩 （Max 5Mb  ）
+
+​                       [tinpng](https://tinypng.com/)
+
+3.强大的工具网
+
+​                       [爱资料](https://www.toolnb.com/)
+
+
+
+
+
+### 找图片
+
+1.电脑壁纸：http://lcoc.top/bizhi/
+
+- https://unsplash.com/
+- https://www.pexels.com/
+- https://visualhunt.com/
+
+2.免费版权图片搜索：https://www.logosc.cn/so/
+
+
+
+
+
+
+
+
+
+### 搞文档
+
+1.优品PPT（模板下载）：http://www.ypppt.com/
+
+2.第一PPT（模板下载）：http://www.1ppt.com/xiazai/
+
+3.当图网PPT（模板下载）：https://www.99ppt.com/
+
+
+
+
+
+
+
+### 看视频
+
+电影推荐（分类别致）：http://www.mvcat.com
+
+蓝光画质电影：http://www.languang.co/
+
